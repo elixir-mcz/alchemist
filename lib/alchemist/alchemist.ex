@@ -8,11 +8,11 @@ defmodule Alchemist do
 
   ## Examples
 
-      iex> Alchemist.hello
+      iex> Alchemist.start
       :world
 
   """
-  def hello do
-    :world
+  def start do
+    :alchemist
   end
 end
